@@ -20,8 +20,8 @@
 ## Implementation Screenshots
 
 <p align="center">
-  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot1.png" width="350" alt="accessibility text">
-  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot2.png" width="350" alt="accessibility text">
-  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/creenshot3.png" width="350" alt="accessibility text">
-  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot4.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot1.png">
+  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot2.png">
+  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot3.png"><br>
+  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot4.png"><br>
 </p>
