@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot1.png" width="350" alt="accessibility text">
-  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot2.PNG" width="350" alt="accessibility text">
-  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/creenshot3.PNG" width="350" alt="accessibility text">
-  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot4.PNG" width="350" alt="accessibility text">
+  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot2.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/creenshot3.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Raghunandan23/Grootan-Challenge/blob/main/Screenshot4.png" width="350" alt="accessibility text">
 </p>
