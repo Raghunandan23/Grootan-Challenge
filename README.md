@@ -9,13 +9,19 @@
 * There on clicking View Details, we can view the Details about the users.
 * I have made the website responsive and user-friendly.
 
+<hr>
+
 ## Languages Used
 
 * HTML, CSS, PHP
 
+<hr>
+
 ## Website Link
 
 * Hosted on 000Webhost.com <a href="http://www.google.com">Website Link</a>
+
+<hr>
 
 ## Implementation Screenshots
 
