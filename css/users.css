@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: black;
+}
+
+.header {
+  padding-top: 30px;
+  color: #444;
+  font-size: 20px;
+  margin: auto;
+  line-height: 50px;
+}
+
+.header h1 {
+  color: white;
+}
+
+.sub-container {
+  max-width: 1500px;
+  margin: auto;
+  padding: 40px 0;
+  border-radius: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.teams {
+  margin: 10px;
+  padding: 22px;
+  max-width: 30%;
+  cursor: pointer;
+  transition: 0.4s;
+  box-sizing: border-box;
+  background-color: cornflowerblue;
+}
+
+.teams img {
+  width: 200px;
+  height: 200px;
+}
+
+.name {
+  color: white;
+  padding: 12px;
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.desig {
+  font-style: italic;
+  color: cyan;
+}
+
+.about {
+  margin: 30px 0;
+  font-weight: lighter;
+  color: aquamarine;
+}
+
+@media screen and (max-width: 600px) {
+  .teams {
+    max-width: 100%;
+  }
+}
+
+.button {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 80px;
+  text-decoration: none;
+  background: #24252a;
+  color: #fff;
+  margin: auto;
+  padding: 0.8em 3em;
+  -webkit-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+  -moz-box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+  box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.21);
+  border-radius: 25px;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
