@@ -25,7 +25,7 @@
 
 ## Website Link
 
-* Hosted on Heruko <a href="https://grootan-challenge.herokuapp.com/signIn.php">Website Link</a>
+* Hosted on Heroku <a href="https://grootan-challenge.herokuapp.com/signIn.php">Website Link</a>
 
 <hr>
 
